@@ -1,7 +1,7 @@
 ## print("Hello, World!")
 - 🌱 Aprendendo HTML/CSS
 
-<div align=center style="display: flex">
+<div style="display: inline-block">
   <a href="https://github.com/victorcosta1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorcosta1&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcosta1&layout=compact&langs_count=7&theme=blueberry"/>
