@@ -1,5 +1,5 @@
 ## print("Hello, World!")
-- 🌱 Aprendendo HTML/CSS
+- Aprendendo Java🤘🏼
 
 <div style="display: inline-block">
   <a href="https://github.com/victorcosta1">
@@ -11,6 +11,7 @@
   <img align="center" alt="victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/mKTS5nbF1zcAAAAd/cute-anime-dancing.gif">
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </div>
  
  ##
