@@ -1,5 +1,5 @@
 ## print("Hello, World!")
-- Aprendendo Java🤘🏼
+- Aprendendo React <img height="15em" src="https://img.icons8.com/offices/30/null/react.png"/>
 
 <div style="display: inline-block">
   <a href="https://github.com/victorcosta1">
