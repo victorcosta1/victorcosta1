@@ -20,6 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorcosta1&show_icons=true&locale=en" alt="victorcosta1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victorcosta1&" alt="victorcosta1" /></p>
-
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Vitttu)
