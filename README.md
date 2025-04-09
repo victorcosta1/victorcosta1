@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorcosta1&show_icons=true&locale=en" alt="victorcosta1" /></p>
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Vitttu&width=1000&show_user=header)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Vitttu&width=1000&show_user=header&bg_color=000000)
